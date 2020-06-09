@@ -1,0 +1,39 @@
+@font-face {
+    
+    src: url('SFUIText-Regular.eot');
+    src: url('SFUIText-Regulard41d.eot?#iefix') format('embedded-opentype'),
+url('SFUIText-Regular.html') format('woff2'),
+url('SFUIText-Regular.woff') format('woff'),
+url('SFUIText-Regular.ttf') format('truetype'),
+url('SFUIText-Regular.svg#FuturamaBoldFont') format('svg');
+    font-family:sfui;
+}
+
+@font-face {
+    
+    src: url('SFUIText-Semibold.eot');
+    src: url('SFUIText-Semiboldd41d.eot?#iefix') format('embedded-opentype'),
+url('SFUIText-Semibold.html') format('woff2'),
+url('SFUIText-Semibold.woff') format('woff'),
+url('SFUIText-Semibold.ttf') format('truetype'),
+url('SFUIText-Semibold.svg#FuturamaBoldFont') format('svg');
+    
+ font-family: 'SFUIText-Semibold';
+}
+
+@font-face {
+    
+    src: url('SFUIText-Bold.eot');
+    src: url('SFUIText-Boldd41d.eot?#iefix') format('embedded-opentype'),
+url('SFUIText-Bold.html') format('woff2'),
+url('SFUIText-Bold.woff') format('woff'),
+url('SFUIText-Bold.ttf') format('truetype'),
+url('SFUIText-Bold.svg#FuturamaBoldFont') format('svg');
+    
+ font-family: 'SFUIText-Bold';
+}
+
+
+
+
+
